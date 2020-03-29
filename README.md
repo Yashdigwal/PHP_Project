@@ -1,1 +1,1 @@
-# PHP_Project
+# Departmental-Store-Management-System
